@@ -1,0 +1,21 @@
+[
+    {
+    "listName": "Shop By Type",
+    "listContent": [
+        { "name": "Bracelets", "url": "/bracelets/" },
+        { "name": "Necklaces", "url": "/necklaces/" },
+        { "name": "Charm Beads", "url": "/charm-beads/" },
+        { "name": "Earrings", "url": "/earrings/" },
+        { "name": "Engagement Rings", "url": "/engagement-rings/" },
+        { "name": "Rings", "url": "/rings/" },
+        { "name": "Pendants", "url": "/pendants/" },
+        { "name": "Bangles", "url": "/bangles/" },
+        { "name": "Cufflinks", "url": "/cufflinks/" },
+        { "name": "Diamond Rings", "url": "/diamond-rings/" },
+        { "name": "Diamond Earrings", "url": "/diamond-earrings/" },
+        { "name": "Diamond Pendants", "url": "/diamond-pendants/" },
+        { "name": "Diamond Bracelets", "url": "/diamond-bracelets/" },
+        { "name": "Diamond Necklaces", "url": "/diamond-necklaces/" }
+        ]
+    }
+]

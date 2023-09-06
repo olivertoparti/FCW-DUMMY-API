@@ -1,0 +1,22 @@
+[
+    {
+    "listName": "Footer Links",
+    "listContent": [
+        { "name": "Delivery Information", "url": "/delivery" },
+        { "name": "Returns & Exchanges", "url": "/returns" },
+        { "name": "Authorised Dealer", "url": "/authorised" },
+        { "name": "FAQs", "url": "/portal" },
+        { "name": "Contact Us", "url": "/contact_us" },
+        { "name": "Customer Service", "url": "/orderhelp" },
+        { "name": "Replacement Watch Straps", "url": "/replacement-watch-straps" },
+        { "name": "Finance Info", "url": "/finance_info" },
+        { "name": "Our Retail Store", "url": "/ourshop" },
+        { "name": "Your Orders", "url": "/account_history" },
+        { "name": "Your Shopping Basket", "url": "/shopping_cart" },
+        { "name": "Terms & Conditions", "url": "/conditions" },
+        { "name": "Privacy Policy", "url": "/cookie_usage" },
+        { "name": "Discount Codes", "url": "/discount-codes" },
+        { "name": "Press Contact", "url": "/press" }
+        ]
+    }
+]

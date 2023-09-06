@@ -1,6 +1,6 @@
 [
     {
-    "listName": "Footer Links",
+    "listName": "Information",
     "listContent": [
         { "name": "Delivery Information", "url": "/delivery" },
         { "name": "Returns & Exchanges", "url": "/returns" },

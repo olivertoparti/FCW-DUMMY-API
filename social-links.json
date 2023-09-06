@@ -1,0 +1,12 @@
+[
+    {
+    "listName": "Social",
+    "listContent": [
+        { "name": "Facebook", "url": "https://www.facebook.com/FirstClassWatches" },
+        { "name": "YouTube", "url": "https://www.youtube.com/user/firstclasswatches" },
+        { "name": "Twitter", "url": "https://twitter.com/firstclasswatch" },
+        { "name": "Instagram", "url": "https://instagram.com/firstclasswatches.co.uk/" },
+        { "name": "Pinterest", "url": "https://uk.pinterest.com/firstclasswatch/" }
+        ]
+    }
+]

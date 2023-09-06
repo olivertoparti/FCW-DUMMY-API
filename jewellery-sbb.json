@@ -1,0 +1,33 @@
+[
+    {
+    "listName": "Shop By Brand",
+    "listContent": [
+        { "name": "Armani Exchange Jewellery", "url": "/armani-exchange-jewellery-c-4327/" },
+        { "name": "BOSS Jewellery", "url": "/boss-jewellery-c-2341/" },
+        { "name": "Buddha To Buddha Jewellery", "url": "/buddha-to-buddha-jewellery-c-6185/" },
+        { "name": "Calvin Klein Jewellery", "url": "/calvin-klein-jewellery-c-577/" },
+        { "name": "Certified Diamond Engagement Rings", "url": "/certified-diamond-engagement-rings-c-1144/" },
+        { "name": "ChloBo Jewellery", "url": "/chlobo-jewellery-c-2052/" },
+        { "name": "Diesel Jewellery", "url": "/diesel-jewellery-c-849/" },
+        { "name": "Disney Jewellery", "url": "/disney-jewellery-c-3271/" },
+        { "name": "Elements Gold", "url": "/elements-gold-jewellery-c-2257/" },
+        { "name": "Elements Silver", "url": "/elements-silver-jewellery-c-1162/" },
+        { "name": "Emporio Armani Jewellery", "url": "/emporio-armani-jewellery-c-4333/" },
+        { "name": "Fossil Jewellery", "url": "/fossil-jewellery-c-848/" },
+        { "name": "Guess Jewellery", "url": "/guess-jewellery-c-586/" },
+        { "name": "James Moore", "url": "/james-moore-jewellery-c-1639/" },
+        { "name": "Michael Kors Jewellery", "url": "/michael-kors-jewellery-c-4339/" },
+        { "name": "Nomination Jewellery", "url": "/nomination-jewellery-c-2940/" },
+        { "name": "Olivia Burton Jewellery", "url": "/olivia-burton-jewellery-c-2262/" },
+        { "name": "Perfection Crystals", "url": "/perfection-crystals-jewellery-c-911/" },
+        { "name": "Radley Jewellery", "url": "/radley-jewellery-c-2038/" },
+        { "name": "Skagen Jewellery", "url": "/skagen-jewellery-c-904/" },
+        { "name": "Swarovski Jewellery", "url": "/swarovski-jewellery-c-2313/" },
+        { "name": "Thomas Sabo Jewellery", "url": "/thomas-sabo-jewellery-c-1233/" },
+        { "name": "Time Travel UK", "url": "/time-travel-uk-c-4942/" },
+        { "name": "Tommy Hilfiger Jewellery", "url": "/tommy-hilfiger-jewellery-c-1699/" },
+        { "name": "Unique & Co", "url": "/unique-co-jewellery-c-2275/" },
+        { "name": "WOLF Accessories", "url": "/wolf-accessories-c-2343/" }
+        ]
+    }
+]

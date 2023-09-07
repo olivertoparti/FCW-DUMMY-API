@@ -1,0 +1,14 @@
+[
+    {
+      "listName": "Women's Special Offers",
+      "listContent": [
+        { "name": "Less Than £50.00", "url": "/products_search.php?f50=Women%27s+Watches&amp;f51=0-50" },
+        { "name": "£50.00 - £100.00", "url": "/products_search.php?f50=Women%27s+Watches&amp;f51=50-100" },
+        { "name": "£100.00 - £150.00", "url": "/products_search.php?f50=Women%27s+Watches&amp;f51=100-150" },
+        { "name": "£150.00 - £250.00", "url": "/products_search.php?f50=Women%27s+Watches&amp;f51=150-250" },
+        { "name": "£250.00 - £500.00", "url": "/products_search.php?f50=Women%27s+Watches&amp;f51=250-500" },
+        { "name": "More Than £500.00", "url": "/products_search.php?f50=Women%27s+Watches&amp;f51=500" }
+      ]
+    }
+  ]
+  

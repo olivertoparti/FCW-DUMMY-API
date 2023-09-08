@@ -1,0 +1,14 @@
+[
+    {
+        "listName": "Women's Watch Materials",
+        "listContent": [
+            { "name": "Stainless Steel", "url": "/womens-stainless-steel-watches/" },
+            { "name": "Leather", "url": "/womens-leather-watches/" },
+            { "name": "PVD Plated", "url": "/womens-pvd-plated-watches/" },
+            { "name": "Gold Plated", "url": "/womens-gold-plated-watches/" },
+            { "name": "Ceramic", "url": "/womens-ceramic-watches/" },
+            { "name": "Two Tone", "url": "/womens-two-tone-watches/" },
+            { "name": "Sterling Silver", "url": "/womens-sterling-silver-watches/" }
+        ]
+    }
+]

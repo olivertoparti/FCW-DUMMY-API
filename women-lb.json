@@ -1,0 +1,25 @@
+[
+    {
+        "listName": "Luxury Brands",
+        "listContent": [
+            { "name": "Baume & Mercier", "url": "/baume-mercier-womens-watches/" },
+            { "name": "Certina", "url": "/certina-womens-watches/" },
+            { "name": "EBEL", "url": "/ebel-womens-watches/" },
+            { "name": "Frederique Constant", "url": "/frederique-constant-womens-watches/" },
+            { "name": "Herbelin", "url": "/michel-herbelin-womens-watches/" },
+            { "name": "J&T Windmills", "url": "/jt-windmills-womens-watches/" },
+            { "name": "Junghans", "url": "/junghans-womens-watches/" },
+            { "name": "LONGINES", "url": "/longines-womens-watches/" },
+            { "name": "Maurice Lacroix", "url": "/maurice-lacroix-womens-watches/" },
+            { "name": "Mondaine", "url": "/mondaine-womens-watches/" },
+            { "name": "RADO", "url": "/rado-womens-watches/" },
+            { "name": "Raymond Weil", "url": "/raymond-weil-womens-watches/" },
+            { "name": "Roamer", "url": "/roamer-womens-watches/" },
+            { "name": "Seiko", "url": "/seiko-womens-watches/" },
+            { "name": "Sinn", "url": "/sinn-womens-watches/" },
+            { "name": "Tissot", "url": "/tissot-womens-watches/" },
+            { "name": "Versace", "url": "/versace-womens-watches/" },
+            { "name": "Victorinox", "url": "/victorinox-womens-watches/" }
+        ]
+    }
+]

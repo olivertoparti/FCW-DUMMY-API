@@ -1,0 +1,34 @@
+[
+    {
+        "listName": "Luxury Brands",
+        "listContent": [
+            { "name": "Alpina", "url": "/alpina-mens-watches/" },
+            { "name": "Ball Watch Company", "url": "/ball-mens-watches/" },
+            { "name": "Baume & Mercier", "url": "/baume-mercier-mens-watches/" },
+            { "name": "Certina", "url": "/certina-mens-watches/" },
+            { "name": "Frederique Constant", "url": "/frederique-constant-mens-watches/" },
+            { "name": "Hamilton", "url": "/hamilton-mens-watches/" },
+            { "name": "Herbelin", "url": "/herbelin-mens-watches/" },
+            { "name": "J&T Windmills", "url": "/jt-windmills-mens-watches/" },
+            { "name": "Junghans", "url": "/junghans-mens-watches/" },
+            { "name": "LONGINES", "url": "/longines-mens-watches/" },
+            { "name": "Luminox", "url": "/luminox-mens-watches/" },
+            { "name": "Maurice Lacroix", "url": "/maurice-lacroix-mens-watches/" },
+            { "name": "MeisterSinger", "url": "/meister-singer-mens-watches/" },
+            { "name": "Mondaine", "url": "/mondaine-mens-watches/" },
+            { "name": "Muhle Glashutte", "url": "/muhle-glashutte-mens-watches/" },
+            { "name": "ORIS", "url": "/oris-mens-watches/" },
+            { "name": "RADO", "url": "/rado-mens-watches/" },
+            { "name": "Raymond Weil", "url": "/raymond-weil-mens-watches/" },
+            { "name": "Roamer", "url": "/roamer-mens-watches/" },
+            { "name": "Seiko", "url": "/seiko-mens-watches/" },
+            { "name": "Sinn", "url": "/sinn-mens-watches/" },
+            { "name": "Squale", "url": "/squale-mens-watches/" },
+            { "name": "Tissot", "url": "/tissot-mens-watches/" },
+            { "name": "U-Boat", "url": "/u-boat-mens-watches/" },
+            { "name": "Versace", "url": "/versace-mens-watches/" },
+            { "name": "Victorinox", "url": "/victorinox-mens-watches/" },
+            { "name": "Wenger", "url": "/wenger-mens-watches/" }
+        ]
+    }
+]

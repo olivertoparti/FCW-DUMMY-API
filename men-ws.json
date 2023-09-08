@@ -1,0 +1,14 @@
+[
+    {
+        "listName": "Men's Watch Materials",
+        "listContent": [
+            { "name": "Stainless Steel", "url": "/mens-stainless-steel-watches/" },
+            { "name": "Leather", "url": "/mens-leather-watches/" },
+            { "name": "Titanium", "url": "/mens-titanium-watches/" },
+            { "name": "PVD Plated", "url": "/mens-pvd-plated-watches/" },
+            { "name": "Gold Plated", "url": "/mens-gold-plated-watches/" },
+            { "name": "Two Tone", "url": "/mens-two-tone-watches/" },
+            { "name": "Ceramic", "url": "/mens-ceramic-watches/" }
+        ]
+    }
+]

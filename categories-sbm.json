@@ -1,0 +1,14 @@
+[
+    {
+        "listName": "Shop By Movement",
+        "listContent": [
+            { "name": "Swiss Watches", "url": "/swiss-made-watches/" },
+            { "name": "Smartwatches", "url": "/smart-watches/" },
+            { "name": "Battery Powered Quartz", "url": "/quartz-watches/" },
+            { "name": "Solar Powered Quartz", "url": "/solar-powered-watches/" },
+            { "name": "Automatic Mechanical", "url": "/automatic-watches/" },
+            { "name": "Handwound Mechanical", "url": "/mechanical-watches/" },
+            { "name": "Kinetic Watches", "url": "/kinetic-watches/" }
+        ]
+    }
+]

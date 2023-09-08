@@ -1,0 +1,22 @@
+[
+    {
+        "listName": "Features",
+        "listContent": [
+            { "name": "GPS Watches", "url": "/gps-watches/" },
+            { "name": "Solar Powered", "url": "/solar-powered-watches/" },
+            { "name": "Radio Controlled", "url": "/radio-controlled-watches/" },
+            { "name": "Sapphire Glass", "url": "/sapphire-glass-watches/" },
+            { "name": "Smartwatches", "url": "/smart-watches/" },
+            { "name": "Swiss Watches", "url": "/swiss-made-watches/" },
+            { "name": "Chronographs", "url": "/stopwatches-chronograph-watches/" },
+            { "name": "Alarms", "url": "/watches-with-alarms/" },
+            { "name": "Date Display", "url": "/date-display-watches/" },
+            { "name": "Bluetooth Watches", "url": "/bluetooth-watches/" },
+            { "name": "Digital Watches", "url": "/digital-watches/" },
+            { "name": "Analog Watches", "url": "/analog-watches/" },
+            { "name": "Glow-In-Dark Hands", "url": "/glow-dark-watches/" },
+            { "name": "Display Backlight", "url": "/backlit-display-watches/" },
+            { "name": "Perpetual Calendar", "url": "/perpetual-calendar-watches/" }
+        ]
+    }
+]

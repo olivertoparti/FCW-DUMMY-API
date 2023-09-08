@@ -1,0 +1,16 @@
+[
+    {
+        "listName": "Shop By Strap",
+        "listContent": [
+            { "name": "Stainless Steel", "url": "/stainless-steel-watches/" },
+            { "name": "Leather", "url": "/leather-watches/" },
+            { "name": "PVD Plated", "url": "/pvd-black-watches/" },
+            { "name": "Gold Plated", "url": "/gold-plated-watches/" },
+            { "name": "Two Tone", "url": "/two-tone-watches/" },
+            { "name": "Titanium", "url": "/titanium-watches/" },
+            { "name": "Ceramic", "url": "/ceramic-watches/" },
+            { "name": "Sterling Silver", "url": "/sterling-silver-watches/" },
+            { "name": "9ct Gold", "url": "/9ct-gold-watches/" }
+        ]
+    }
+]

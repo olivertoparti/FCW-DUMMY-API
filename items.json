@@ -2,11 +2,15 @@
   "products": [
     {
       "name": "Small Elegant Wristwatch",
-      "price": 9999
+      "price": 799.99
     },
     {
-      "name": "Big Classic Watch",
-      "price": 7999
+      "name": "Big Classic Watch Strap",
+      "price": 12.50
+    },
+    {
+      "name": "Casio Watch",
+      "price": 82.20
     }
   ]
 }
